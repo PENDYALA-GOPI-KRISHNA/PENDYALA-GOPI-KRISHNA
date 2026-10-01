@@ -185,7 +185,7 @@ A full-stack application for managing and tracking student expenses.
 
 <br>
 
-**[→ View Repository](YOUR_EXPENSE_REPOSITORY_URL)**
+**[→ View Repository](https://student-expenses-tracer.vercel.app/)**
 
 </td>
 
@@ -212,13 +212,13 @@ A web application designed around pet discovery and adoption workflows.
 
 <br>
 
-**[→ View Repository](YOUR_PET_REPOSITORY_URL)**
+**[→ View Repository](https://github.com/PENDYALA-GOPI-KRISHNA/PET-Adoption_Platform)**
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🗳️ Voting System
+## 🗳️ Tunely Music System
 
 A Java application created to strengthen **OOP and application logic** fundamentals.
 
@@ -236,7 +236,7 @@ A Java application created to strengthen **OOP and application logic** fundament
 
 <br>
 
-**[→ View Repository](YOUR_VOTING_REPOSITORY_URL)**
+**[→ View Repository](https://github.com/PENDYALA-GOPI-KRISHNA/NewTunelyPlayyourMood)**
 
 </td>
 
