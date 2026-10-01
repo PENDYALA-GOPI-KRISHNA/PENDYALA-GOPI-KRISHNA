@@ -1,267 +1,205 @@
-## Hi there 👋
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║                    GITHUB PROFILE README                            ║
-║                    Pendyala Gopi Krishna                             ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-# 👋 Hi, I'm Gopi Krishna
+# Pendyala Gopi Krishna
 
-### 💻 CSE Undergraduate | Full Stack Developer | Problem Solver
+### Computer Science Engineering Student · Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;React+%7C+Flask+%7C+MySQL;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+Building practical web applications with **React, Flask, Java, Python & SQL**
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Gopikrishna2300030524-181717?style=for-the-badge&logo=github)](https://github.com/Gopikrishna2300030524)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-📍 Vijayawada, Andhra Pradesh, India
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Gopikrishna2300030524)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **Computer Science Engineering undergraduate at Koneru Lakshmaiah Education Foundation (KLU)**, currently pursuing my B.Tech in CSE and graduating in **2027**.
+I'm a **B.Tech Computer Science Engineering student at Koneru Lakshmaiah Education Foundation**, graduating in 2027.
 
-I enjoy building practical applications using **Java, Python, JavaScript, React, Flask, REST APIs, and SQL**. I'm particularly interested in understanding how frontend applications, backend APIs, databases, and system components work together to create real-world software.
+I enjoy building full-stack applications and solving programming problems, with a focus on writing clean, practical, and maintainable code. My current work involves **React-based frontends, Flask REST APIs, SQL databases, and Java/Python programming**.
 
-I'm continuously improving my **Data Structures & Algorithms, problem-solving, backend development, databases, and system design fundamentals** while building projects that strengthen my development skills.
+I'm currently strengthening my foundations in **Data Structures & Algorithms, backend development, databases, and system design** while working on projects that solve real-world problems.
 
-### 🎯 Career Goals
-
-- 💼 Start my career as a Software Engineer / Full Stack Developer
-- 🧠 Strengthen Data Structures & Algorithms and problem-solving
-- 🌐 Build scalable full-stack applications
-- ⚙️ Improve backend and system design knowledge
-- 🚀 Contribute to meaningful software projects
-- 📚 Keep learning new technologies and development practices
+* 🎓 B.Tech CSE — KLU, 2023–2027
+* 📊 CGPA — **9.25 / 10**
+* 💻 Interested in Software Engineering & Full Stack Development
+* 📍 Vijayawada, Andhra Pradesh, India
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Programming Languages
+### Languages
 
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-### 🎨 Frontend
+### Frontend
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
-### ⚙️ Backend & APIs
+### Backend
 
-<p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-</p>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
 
-### 🗄️ Databases
+### Databases
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
 
-### 🔧 Tools & Technologies
+### Tools
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-### 📚 Core Concepts
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
-- SQL & Database Management
-- REST API Development
-- Full Stack Development
-- Basic System Design
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## Selected Projects
 
-## 💊 TechPills
+### TechPills
 
-A full-stack web application built to provide a practical platform using a modern frontend-backend architecture.
+**Full-stack web application built with React, Flask and MySQL.**
 
-**Tech Stack**
+* Developed React-based frontend components and application flows
+* Integrated frontend with Flask REST APIs
+* Worked with MySQL for application data
+* Implemented frontend-to-backend API communication
+* Collaborated using Git and GitHub
 
-`React` `JavaScript` `Flask` `MySQL` `REST APIs`
+**Stack:** `React` `JavaScript` `Flask` `REST APIs` `MySQL`
 
-### 🔥 My Contribution
-
-- Developed frontend components using React
-- Integrated frontend with backend REST APIs
-- Worked with API communication and application flow
-- Worked with MySQL database integration
-- Collaborated using Git and GitHub
-
-<!-- Update these links -->
-🔗 **GitHub:** `ADD_PROJECT_GITHUB_LINK_HERE`
-
-🌐 **Live Demo:** `ADD_LIVE_DEMO_LINK_HERE`
+[Repository](YOUR_TECHPILLS_REPOSITORY_URL) · [Live Demo](YOUR_TECHPILLS_DEMO_URL)
 
 ---
 
-## 🐾 Pet Adoption System
+### Student Expense Tracker
 
-A web-based application designed to simplify the process of managing and exploring pet adoption.
+**A full-stack application for managing and tracking student expenses.**
 
-**Tech Stack**
+* Built the frontend using React and Vite
+* Developed backend APIs using Flask
+* Integrated PostgreSQL through Supabase
+* Implemented expense management workflows
+* Designed the application around a frontend–API–database architecture
 
-`JavaScript` `React` `Flask` `SQL`
+**Stack:** `React` `Vite` `Flask` `PostgreSQL` `Supabase`
 
-### 🔥 Key Features
-
-- Pet information management
-- Adoption-related workflows
-- Frontend and backend integration
-- Database-driven application architecture
-
-<!-- Update these links -->
-🔗 **GitHub:** `ADD_PROJECT_GITHUB_LINK_HERE`
-
-🌐 **Live Demo:** `ADD_LIVE_DEMO_LINK_HERE`
+[Repository](YOUR_EXPENSE_TRACKER_REPOSITORY_URL) · [Live Demo](YOUR_EXPENSE_TRACKER_DEMO_URL)
 
 ---
 
-## 💰 Student Expense Tracker
+### Pet Adoption System
 
-A full-stack expense management application designed to help students track and manage their expenses.
+**A web application designed to support pet discovery and adoption workflows.**
 
-**Tech Stack**
+* Built a structured full-stack application
+* Implemented frontend and backend communication
+* Worked with database-driven application functionality
+* Focused on creating a simple and usable user experience
 
-`React` `Vite` `Flask` `Supabase PostgreSQL`
+**Stack:** `React` `Flask` `SQL`
 
-### 🔥 Key Features
-
-- Add and manage expenses
-- Track student spending
-- Frontend-backend communication
-- PostgreSQL database integration
-- Full-stack application architecture
-
-<!-- Update these links -->
-🔗 **GitHub:** `ADD_PROJECT_GITHUB_LINK_HERE`
-
-🌐 **Live Demo:** `ADD_LIVE_DEMO_LINK_HERE`
+[Repository](YOUR_PET_ADOPTION_REPOSITORY_URL)
 
 ---
 
-## 🗳️ Voting System
+## Problem Solving
 
-A Java-based application demonstrating object-oriented programming and fundamental application logic.
+Currently strengthening my problem-solving skills through programming and DSA practice.
 
-**Tech Stack**
+**Topics I'm working on:**
 
-`Java` `OOP`
+`Arrays` · `Strings` · `Two Pointers` · `Sliding Window` · `Prefix Sum`
 
-### 🔥 Concepts Practiced
-
-- Object-Oriented Programming
-- Classes and Objects
-- Conditional Logic
-- Data Handling
-- Application Flow
-
-<!-- Update these links -->
-🔗 **GitHub:** `ADD_PROJECT_GITHUB_LINK_HERE`
+`Recursion` · `Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming` · `SQL`
 
 ---
 
-# 🏆 Experience & Activities
+## Experience & Activities
 
-### 🎓 Computer Science Engineering
+**VYUHA Club — Member**
+`June 2024 – Present`
 
-**Koneru Lakshmaiah Education Foundation (KLU)**
+Participating in collaborative technical and student activities while developing communication, teamwork, and problem-solving skills.
 
-📅 2023 – 2027
+**Social Internship — Food Sanitation in Street Vendors**
+`June 2024`
 
-- B.Tech in Computer Science and Engineering
-- CGPA: **9.25 / 10**
-- No academic backlogs
-
----
-
-### 🤝 VYUHA Club
-
-**Club Member**
-
-📅 June 2024 – Present
-
-Participating in technical and collaborative activities while developing communication, teamwork, and problem-solving skills.
+Participated in a social internship focused on food sanitation and hygiene practices among street vendors.
 
 ---
 
-### 🌱 Social Internship
+## Certifications & Programs
 
-**Food Sanitation in Street Vendors**
+* **AICTE / EduSkills — Python Full Stack Virtual Internship**
 
-📅 June 2024
+  * January–March 2025
+  * Grade: **O**
 
-Worked as part of a social internship focused on understanding food sanitation and hygiene practices among street vendors.
+* **Edunet Foundation / Microsoft Program**
 
----
-
-# 📜 Certifications & Programs
-
-- 🐍 **AICTE / EduSkills Python Full Stack Virtual Internship**
-  - January – March 2025
-  - Grade: **O**
-
-- 🤖 **Microsoft / Edunet Foundation AI-related learning program**
-
-- 💻 Continuous learning through programming, DSA, full-stack development, and technical projects
-
-<!-- Add certificate URLs here if available -->
+  * AI and technology-focused learning
 
 ---
 
-# 📚 Currently Learning
-
-I'm currently focusing on strengthening my software engineering fundamentals:
+## Currently Learning
 
 ```text
-🧠 Data Structures & Algorithms
-⚡ Java Programming
-🐍 Python
-🌐 React.js
-🔧 Flask & REST APIs
-🗄️ MySQL / PostgreSQL
-🏗️ System Design Fundamentals
-💡 Problem Solving
-<!--
-**PENDYALA-GOPI-KRISHNA/PENDYALA-GOPI-KRISHNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Structures & Algorithms
+System Design Fundamentals
+React & Frontend Development
+Flask & REST API Development
+SQL & Database Design
+Java & Python
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gopikrishna2300030524&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopikrishna2300030524&layout=compact&hide_border=true&theme=transparent" height="165"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Gopikrishna2300030524&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm interested in **software engineering opportunities, full-stack development, open-source projects, and building useful products**.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Gopikrishna2300030524)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+**Build. Learn. Improve. Repeat.**
+
+</div>
