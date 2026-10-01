@@ -1,176 +1,118 @@
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--                         GITHUB PROFILE                                 -->
+
+<!--                    Pendyala Gopi Krishna                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# Pendyala Gopi Krishna
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=220&section=header&text=Gopi%20Krishna&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Computer Science Engineering Student · Full Stack Developer
+<br>
 
-Building practical web applications with **React, Flask, Java, Python & SQL**
+<a href="https://github.com/Gopikrishna2300030524">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Gopikrishna2300030524)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=64748B&center=true&vCenter=true&width=750&lines=Building+full-stack+applications+that+solve+real+problems;React+%7C+Flask+%7C+Java+%7C+Python+%7C+SQL;Learning+DSA+%7C+Backend+Development+%7C+System+Design;Turning+ideas+into+working+software." alt="Typing animation"/>
 
 </div>
 
----
-
-## About
-
-I'm a **B.Tech Computer Science Engineering student at Koneru Lakshmaiah Education Foundation**, graduating in 2027.
-
-I enjoy building full-stack applications and solving programming problems, with a focus on writing clean, practical, and maintainable code. My current work involves **React-based frontends, Flask REST APIs, SQL databases, and Java/Python programming**.
-
-I'm currently strengthening my foundations in **Data Structures & Algorithms, backend development, databases, and system design** while working on projects that solve real-world problems.
-
-* 🎓 B.Tech CSE — KLU, 2023–2027
-* 📊 CGPA — **9.25 / 10**
-* 💻 Interested in Software Engineering & Full Stack Development
-* 📍 Vijayawada, Andhra Pradesh, India
+<br>
 
 ---
 
-## Tech Stack
+## `01` — About Me
 
-### Languages
+<table>
+<tr>
+<td width="62%" valign="top">
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+### Hey, I'm Gopi 👋
 
-### Frontend
+I'm a **Computer Science Engineering undergraduate at Koneru Lakshmaiah Education Foundation**, graduating in **2027**.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+I enjoy building software from the ground up — from designing a React interface to connecting it with Flask APIs and working with relational databases.
 
-### Backend
+I'm currently focused on becoming a stronger **software engineer** by improving my problem-solving skills, understanding backend architecture, and building projects that go beyond simple academic implementations.
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
+<br>
 
-### Databases
+**Currently focused on**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+→ Data Structures & Algorithms
+→ Full Stack Development
+→ REST API Development
+→ SQL & Database Design
+→ System Design Fundamentals
 
-### Tools
+</td>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+<td width="38%" valign="top">
 
----
+### Quick Info
 
-## Selected Projects
+🎓 **B.Tech CSE**
+KLU · 2023–2027
 
-### TechPills
+📊 **CGPA**
+**9.25 / 10**
 
-**Full-stack web application built with React, Flask and MySQL.**
+💻 **Primary Focus**
+Software Engineering
 
-* Developed React-based frontend components and application flows
-* Integrated frontend with Flask REST APIs
-* Worked with MySQL for application data
-* Implemented frontend-to-backend API communication
-* Collaborated using Git and GitHub
+🌐 **Development**
+Full Stack
 
-**Stack:** `React` `JavaScript` `Flask` `REST APIs` `MySQL`
+📍 **Location**
+Vijayawada, India
 
-[Repository](YOUR_TECHPILLS_REPOSITORY_URL) · [Live Demo](YOUR_TECHPILLS_DEMO_URL)
+🚀 **Goal**
+Build useful software
 
----
-
-### Student Expense Tracker
-
-**A full-stack application for managing and tracking student expenses.**
-
-* Built the frontend using React and Vite
-* Developed backend APIs using Flask
-* Integrated PostgreSQL through Supabase
-* Implemented expense management workflows
-* Designed the application around a frontend–API–database architecture
-
-**Stack:** `React` `Vite` `Flask` `PostgreSQL` `Supabase`
-
-[Repository](YOUR_EXPENSE_TRACKER_REPOSITORY_URL) · [Live Demo](YOUR_EXPENSE_TRACKER_DEMO_URL)
+</td>
+</tr>
+</table>
 
 ---
 
-### Pet Adoption System
-
-**A web application designed to support pet discovery and adoption workflows.**
-
-* Built a structured full-stack application
-* Implemented frontend and backend communication
-* Worked with database-driven application functionality
-* Focused on creating a simple and usable user experience
-
-**Stack:** `React` `Flask` `SQL`
-
-[Repository](YOUR_PET_ADOPTION_REPOSITORY_URL)
-
----
-
-## Problem Solving
-
-Currently strengthening my problem-solving skills through programming and DSA practice.
-
-**Topics I'm working on:**
-
-`Arrays` · `Strings` · `Two Pointers` · `Sliding Window` · `Prefix Sum`
-
-`Recursion` · `Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming` · `SQL`
-
----
-
-## Experience & Activities
-
-**VYUHA Club — Member**
-`June 2024 – Present`
-
-Participating in collaborative technical and student activities while developing communication, teamwork, and problem-solving skills.
-
-**Social Internship — Food Sanitation in Street Vendors**
-`June 2024`
-
-Participated in a social internship focused on food sanitation and hygiene practices among street vendors.
-
----
-
-## Certifications & Programs
-
-* **AICTE / EduSkills — Python Full Stack Virtual Internship**
-
-  * January–March 2025
-  * Grade: **O**
-
-* **Edunet Foundation / Microsoft Program**
-
-  * AI and technology-focused learning
-
----
-
-## Currently Learning
-
-```text
-Data Structures & Algorithms
-System Design Fundamentals
-React & Frontend Development
-Flask & REST API Development
-SQL & Database Design
-Java & Python
-```
-
----
-
-## GitHub
+## `02` — What I Work With
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gopikrishna2300030524&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+### Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopikrishna2300030524&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,js" />
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+<br><br>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=flask,mysql,postgres,sqlite" />
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -178,28 +120,319 @@ Java & Python
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Gopikrishna2300030524&hide_border=true&theme=transparent"/>
+`Java`   `Python`   `JavaScript`   `C`
+`React`   `HTML`   `CSS`
+`Flask`   `REST APIs`
+`MySQL`   `PostgreSQL`   `SQLite`
+`Git`   `GitHub`   `VS Code`
 
 </div>
 
 ---
 
-## Let's Connect
-
-I'm interested in **software engineering opportunities, full-stack development, open-source projects, and building useful products**.
+## `03` — Featured Projects
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Gopikrishna2300030524)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+### Selected work
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 💊 TechPills
+
+A full-stack application built around a **React + Flask + MySQL** architecture.
+
+### What I worked on
+
+* React frontend development
+* REST API integration
+* Backend communication
+* MySQL integration
+* Git-based collaboration
+
+**Stack**
+
+`React` `JavaScript` `Flask` `REST API` `MySQL`
+
+<br>
+
+**[→ View Repository](YOUR_TECHPILLS_REPOSITORY_URL)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💰 Student Expense Tracker
+
+A full-stack application for managing and tracking student expenses.
+
+### What I worked on
+
+* React + Vite frontend
+* Flask backend APIs
+* PostgreSQL integration
+* Expense management workflows
+* Frontend → API → Database architecture
+
+**Stack**
+
+`React` `Vite` `Flask` `PostgreSQL` `Supabase`
+
+<br>
+
+**[→ View Repository](YOUR_EXPENSE_REPOSITORY_URL)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🐾 Pet Adoption System
+
+A web application designed around pet discovery and adoption workflows.
+
+### Focus
+
+* User-friendly frontend
+* Backend integration
+* Database-driven functionality
+* Full-stack application structure
+
+**Stack**
+
+`React` `Flask` `SQL`
+
+<br>
+
+**[→ View Repository](YOUR_PET_REPOSITORY_URL)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🗳️ Voting System
+
+A Java application created to strengthen **OOP and application logic** fundamentals.
+
+### Focus
+
+* Classes & Objects
+* OOP principles
+* Application logic
+* Data handling
+* Structured program design
+
+**Stack**
+
+`Java` `OOP`
+
+<br>
+
+**[→ View Repository](YOUR_VOTING_REPOSITORY_URL)**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `04` — Engineering Mindset
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+
+**Problem Solving**
+
+DSA & Algorithms
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+APIs & Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**Data**
+
+SQL & Databases
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Frontend**
+
+React & JavaScript
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+## `05` — Problem Solving
+
+I'm actively strengthening my DSA fundamentals through programming practice.
+
+```text
+Arrays             ████████████████████
+Strings            ███████████████████░
+Two Pointers       ██████████████████░░
+Sliding Window     █████████████████░░░
+Prefix Sum         ████████████████░░░░
+Recursion          ██████████████░░░░░░
+Linked Lists       ████████████░░░░░░░░
+Trees              ██████████░░░░░░░░░░
+Graphs             ████████░░░░░░░░░░░░
+Dynamic Programming ██████░░░░░░░░░░░░░░
+```
+
+> Currently focusing on understanding the **logic behind solutions**, not just memorizing implementations.
+
+---
+
+## `06` — Currently Learning
+
 <div align="center">
 
-**Build. Learn. Improve. Repeat.**
+| Area                  | Focus                                                   |
+| :-------------------- | :------------------------------------------------------ |
+| 🧠 **DSA**            | Arrays · Strings · Sliding Window · Trees · Graphs · DP |
+| ⚛️ **Frontend**       | React · Components · State · API Integration            |
+| ⚙️ **Backend**        | Flask · REST APIs · Application Architecture            |
+| 🗄️ **Database**      | SQL · Joins · Relationships · PostgreSQL                |
+| 🏗️ **System Design** | Caching · Load Balancing · Stateless Applications       |
 
 </div>
+
+---
+
+## `07` — Experience & Activities
+
+### VYUHA Club
+
+**Member · June 2024 – Present**
+
+Participating in collaborative student and technical activities while developing teamwork, communication, and problem-solving skills.
+
+### Social Internship
+
+**Food Sanitation in Street Vendors · June 2024**
+
+Participated in a social internship focused on food sanitation and hygiene practices among street vendors.
+
+### Python Full Stack Virtual Internship
+
+**AICTE / EduSkills · January – March 2025**
+
+Completed a Python Full Stack virtual internship with **Grade O**, working with full-stack development concepts.
+
+---
+
+## `08` — GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Gopikrishna2300030524&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopikrishna2300030524&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Gopikrishna2300030524&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## `09` — Beyond Code
+
+I believe good software comes from more than knowing a programming language.
+
+### I'm working on
+
+**01** — Writing cleaner code
+**02** — Understanding *why* systems work
+**03** — Improving problem-solving speed
+**04** — Building projects with real-world architecture
+**05** — Becoming a better software engineer
+
+---
+
+## `10` — Let's Connect
+
+<div align="center">
+
+### Interested in building something useful?
+
+I'm open to connecting around **software engineering, full-stack development, open source, and interesting technical projects.**
+
+<br>
+
+<a href="https://github.com/Gopikrishna2300030524">
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Gopikrishna2300030524&style=flat-square&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+**Thanks for stopping by.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer" width="100%"/>
+
+<!--
+════════════════════════════════════════════════════════════════════════
+                         UPDATE BEFORE PUBLISHING
+
+1. YOUR_LINKEDIN_URL
+2. YOUR_EMAIL
+3. YOUR_TECHPILLS_REPOSITORY_URL
+4. YOUR_TECHPILLS_DEMO_URL
+5. YOUR_EXPENSE_REPOSITORY_URL
+6. YOUR_PET_REPOSITORY_URL
+7. YOUR_VOTING_REPOSITORY_URL
+
+Keep the profile focused on projects and real skills.
+Avoid adding technologies you have not actually used.
+════════════════════════════════════════════════════════════════════════
+-->
