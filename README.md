@@ -12,15 +12,15 @@
 
 <br>
 
-<a href="https://github.com/Gopikrishna2300030524">
+<a href="https://github.com/PENDYALA-GOPI-KRISHNA">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/pendyala-gopi-krishna/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:gopikrishna8174@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -68,7 +68,7 @@ I'm currently focused on becoming a stronger **software engineer** by improving 
 KLU · 2023–2027
 
 📊 **CGPA**
-**9.25 / 10**
+**9.38 / 10**
 
 💻 **Primary Focus**
 Software Engineering
@@ -161,7 +161,7 @@ A full-stack application built around a **React + Flask + MySQL** architecture.
 
 <br>
 
-**[→ View Repository](YOUR_TECHPILLS_REPOSITORY_URL)**
+**[→ View Repository](https://techpills-testing.vercel.app/)**
 
 </td>
 
@@ -396,15 +396,15 @@ I'm open to connecting around **software engineering, full-stack development, op
 
 <br>
 
-<a href="https://github.com/Gopikrishna2300030524">
+<a href="https://github.com/PENDYALA-GOPI-KRISHNA">
 <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/pendyala-gopi-krishna/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:gopikrishna8174@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
